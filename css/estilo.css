@@ -35,7 +35,7 @@ nav a:hover{ /*hover cuando el mouse pasa encima*/
     padding: 120px 20px;
     background-image:
         linear-gradient(rgba(0,0,0,0.35), rgba(0,0,0,0.35)),
-        url("imgs/Bakku.jpg");
+        url("../imgs/Bakku.jpg");
     background-size: cover;
     background-position: center;
 }
